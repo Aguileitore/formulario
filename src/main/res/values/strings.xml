@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiFormulario</string>
+    <string name="titulo">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="titulo2">Mis Datos</string>
+    <string name="btnOk">Ingresar otros datos</string>
+    <string name="btnSalir">Salir</string>
+</resources>
